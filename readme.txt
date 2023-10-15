@@ -1,4 +1,4 @@
-my first GIT project
+Hello world!
 
-hi how are you
-im fine thankyou!
+I'm Reema and this is my first GIT project
+
